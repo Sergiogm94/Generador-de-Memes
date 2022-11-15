@@ -1,0 +1,19 @@
+.formulario {
+    position:sticky;
+    top: 0;
+    background-color: rgb(13, 1, 1);
+    width: 100%;
+    z-index: 2;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+   
+}
+
+label {
+    color: white;
+    font-weight: 800;
+}
